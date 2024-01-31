@@ -9,7 +9,7 @@ O Reconhecimento Óptico de Caracteres (OCR) é uma tecnologia que transforma do
 
 Através do endereço https://portal.vision.cognitive.azure.com/ é possível ter acesso a diversas ferramentas de Visão Computacional oferecidas pelas plataforma. Entre elas, foi utilizada a OCR através de um input das imagens a serem analisadas.
 
-![Exemplo do resultado](./print/Screenshot from 2024-01-30 23-15-39.png)
+![Exemplo do resultado](print/Screenshot%20from%202024-01-30%2023-15-39.png)
 
 
 
